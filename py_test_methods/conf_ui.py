@@ -1,0 +1,22 @@
+''' Search page '''
+wiki_url = 'https://en.wikipedia.org/wiki/Main_Page'
+search_input_field_id = 'searchInput'
+wikipedia_text = 'wikipedia'
+title_id = 'firstHeading'
+
+''' Tesla'''
+tesla_motors = 'https://www.teslamotors.com/'
+schedule_test_drive_css = '.btn-primary.hide-on-mobile'
+success_css = '.modal-title>div'
+success_text = 'We will call you'
+
+first_name_id = 'edit-firstname-td'
+last_name_id = 'edit-lastname-td'
+email_id = 'edit-usermail-td'
+test_email = 'test@email.com'
+phone_id = 'edit-phonenumber-td'
+test_phone = '0978404862'
+zip_id = 'edit-zipcode-td'
+test_zip = '78585'
+next_btn_id = 'edit-submit-td-ajax'
+
